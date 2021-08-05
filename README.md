@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baralmanish
+- 👋 Hi, I’m Manish Baral
 - 👀 I’m interested in meeting new people and learning new things.
 <!---
 - 🌱 I’m currently learning ...
