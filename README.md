@@ -1,13 +1,36 @@
-I am a Full-stack Developer with 8 years of professional experience in using JavaScript & TypeScript (React, Angular, NodeJS). Currently I’m part of an agile development team where I’m in charge of developing highly scaleable and reliable applications using React, Redux, NodeJS & Azure DevOps in multiple environments including microservices and atomic design patterns.
+# Manish Baral | Senior Full-Stack Engineer
 
-I love working with leading technologies like NextJS | VueJS | React Native | GraphQL | Laravel | MySQL | PostgreSQL | Microservices | Docker | Kubernetes | AWS | CI/CD | Redis | Pusher | Scrum | DevOps | Agile Methodologies | Microsoft PowerApps | Shopify.
+Senior Full-Stack Engineer specializing in the React ecosystem, Node.js distributed services, and enterprise Laravel development. Focused on system performance, architectural optimization, and cross-platform mobile delivery.
 
-I have experience working in a variety of sectors for American and Danish startups, like FleetPanda, in an environment that is constantly growing. I have a great interest for developing and debugging distributed systems that are dependable, highly available, secure, and performant. As I pick things up quickly, I enjoy taking on new challenges.
+- **Location:** Dubai, UAE
+- **Current Role:** Senior Full-Stack Developer at Teletronics
+- **Credentials:** Completing BSc (Hons) in Computer Science from Liverpool John Moores University
+- **Professional Links:** [LinkedIn Profile](https://www.linkedin.com/in/baralmanish) | [Technical Blog on Medium](https://medium.com/@manish-baral)
 
-- 📫 Email: mail.aarman@gmail.com
-- 📫 Linkedin: https://www.linkedin.com/in/baralmanish/
+---
 
-<!---
-baralmanish/baralmanish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Technical Ecosystem
+
+| Layer | Technologies & Tools |
+| :--- | :--- |
+| **Frontend & Web** | React, Next.js, TypeScript, React Query, GraphQL, HTML5, CSS3 |
+| **Mobile Engineering** | React Native (iOS & Android cross-platform architecture) |
+| **Backend & Systems** | Node.js (Fastify, Express), Laravel, RESTful APIs, Microservices |
+| **Databases & Caching** | PostgreSQL, MySQL, Redis caching layers |
+| **Infrastructure & DevOps** | Docker containers, AWS cloud services, Linux administration, cPanel |
+
+---
+
+### 🚀 Production Implementation & Core Focus
+
+* **High-Concurrency Systems:** Engineering scalable microservices using Fastify and PostgreSQL capable of handling over 15,000 concurrent requests per second while reducing backend infrastructure costs.
+* **Latency Optimization:** Enhancing slow, long-running API endpoints into real-time, event-driven data flows using Server-Sent Events to drastically decrease data delivery times.
+* **Complex UI Orchestration:** Designing fluid, interactive user dashboards with custom drag-and-drop widget layouts, keeping state highly synchronized across client services via React Query.
+* **Cross-Platform Mobility:** Architecting production React Native applications with up to 90% codebase sharing between iOS and Android platforms to maximize engineering velocity.
+* **Technical Leadership:** Mentoring engineering teams on clean code habits, automated testing configurations, and structural patterns to ensure codebases remain maintainable during midnight system handoffs.
+
+---
+
+### 🛠️ Open Source & Technical R&D
+
+Outside of product development environments, I focus on system performance tuning, exploring edge runtime behaviors, and prototyping hardware/IoT data integrations. I prioritize writing structured, well-documented code designed for longevity and clarity.
